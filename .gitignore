@@ -8,3 +8,6 @@ coverage/
 *.log
 .DS_Store
 Thumbs.db
+
+# Local fox animation experiments
+tmp/fox-animation-experiments/
