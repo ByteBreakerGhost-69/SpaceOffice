@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "status": "candidate",
+  "source": "Pixel Fox Walking Sprite Sheet.png",
+  "sourceWidth": 2172,
+  "sourceHeight": 724,
+  "animation": {
+    "name": "walk-side",
+    "direction": "side",
+    "fps": 8,
+    "loop": true,
+    "frameCount": 16,
+    "frameBounds": null
+  },
+  "validation": {
+    "status": "pending",
+    "notes": [
+      "Frame boundaries have not been verified.",
+      "Do not use this configuration for production extraction yet."
+    ]
+  }
+}
