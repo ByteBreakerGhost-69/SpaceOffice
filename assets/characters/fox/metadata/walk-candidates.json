@@ -1,0 +1,22 @@
+[
+  {
+    "file": "Orange Fox Pixel Art Walk Cycle Sheet.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 254,
+    "transparent_pixels": 750809,
+    "partially_transparent_pixels": 822055
+  },
+  {
+    "file": "Pixel Fox Walking Sprite Sheet.png",
+    "width": 2172,
+    "height": 724,
+    "mode": "RGBA",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 1284106,
+    "partially_transparent_pixels": 288296
+  }
+]
